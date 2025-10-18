@@ -13,9 +13,9 @@ For each year folder (e.g., `2024/`), you will find:
   - BibTeX citation
 - **`arxiv-pdfs/`**: Contains the arXiv PDF versions of our papers
 
-## Publication List
+## 📖 Publication List
 
-### 2025
+#### 2025
 </small>
 Cao, X., Zhuang, D., Zhao, J., & Wang, S. (2025). Virtual nodes improve long-term traffic prediction. *arXiv preprint arXiv:2501.10048*.
 
