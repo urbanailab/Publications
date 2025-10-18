@@ -13,10 +13,14 @@ For each year folder (e.g., `2024/`), you will find:
   - BibTeX citation
 - **`arxiv-pdfs/`**: Contains the arXiv PDF versions of our papers
 
+## 🔗 Useful Links
+
+- [Urban AI Lab Website](https://www.urbanailab.com/)
+- [Lab GitHub Organization](https://github.com/urbanailab)
+
 ## 📖 Publication List
 
 ### 2025
-<span style="font-size: 14px;">
 Cao, X., Zhuang, D., Zhao, J., & Wang, S. (2025). Virtual nodes improve long-term traffic prediction. *arXiv preprint arXiv:2501.10048*.</small>
 
 Chen, X., Zhuang, D., Cai, H., Wang, S., & Zhao, J. (2025). Dynamic autoregressive tensor factorization for pattern discovery of spatiotemporal systems. *IEEE Transactions on Pattern Analysis and Machine Intelligence*. Advance online publication. https://doi.org/10.1109/TPAMI.2025.3576719
@@ -36,12 +40,7 @@ Xia, Y., Qu, A., Zheng, Y., Tang, Y., Zhuang, D., Liang, Y., Wang, S., Wu, C., S
 Yang, M., Zheng, Y., Wang, S., Guo, X., & Zhao, J. (2025). Impacts of the built environment on remote work choices and preferences. *Cities, 163*, 106034. https://doi.org/10.1016/j.cities.2025.106034
 
 Zhuang, D., Xu, H., Guo, X., Zheng, Y., Wang, S., & Zhao, J. (2025). Mitigating spatial disparity in urban prediction using residual-aware spatiotemporal graph neural networks: A Chicago case study. In *Companion Proceedings of the ACM on Web Conference 2025* (pp. 2351–2360). ACM. https://doi.org/10.1145/3701716.3717368
-</span>
 
-## 🔗 Useful Links
-
-- [Urban AI Lab Website](https://www.urbanailab.com/)
-- [Lab GitHub Organization](https://github.com/urbanailab)
 
 ---
 
